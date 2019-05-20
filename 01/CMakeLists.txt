@@ -1,0 +1,3 @@
+
+ADD_EXECUTABLE(1.1 1.1.cpp) 
+ADD_EXECUTABLE(1.2 1.2.cpp 1.2.h) 
