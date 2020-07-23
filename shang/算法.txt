@@ -1,8 +1,0 @@
-
-# IBM 同态加密
-https://github.com/shaih/HElib
-
-# Edward曲线的原始论文
-http://www.ams.org/journals/bull/2007-44-03/S0273-0979-07-01153-6/S0273-0979-07-01153-6.pdf
-
-
